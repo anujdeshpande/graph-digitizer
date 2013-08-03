@@ -10,4 +10,4 @@ Script I used is here:
 https://github.com/anujdeshpande/scripts/blob/master/fetch_sed.py
 
 Needed the digitized graphs for post processing.
-Used the functions herein for thickening, cropping, getting the co-ordinates and combining 2 (or more) graphs to get the co-ordinates of combination filters
+Used the functions herein for thickening, cropping, getting the co-ordinates and combining 2 (or more) graphs to get the co-ordinates of combined filters
